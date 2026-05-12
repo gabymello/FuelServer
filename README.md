@@ -38,8 +38,4 @@ O **FuelSaver** é um aplicativo Android desenvolvido para calcular o consumo de
 
 ---
 
-## Como Usar
-
-1. Clone ou faça o **download** deste repositório:
-   ```bash
-   git clone https://github.com/Bruno7Martinho/FuelSaver.git
+it
